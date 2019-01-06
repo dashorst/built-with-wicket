@@ -1,0 +1,10 @@
+name: Built With Wicket
+port: 4000
+highlighter:    rouge
+markdown:    Kramdown
+
+collections:
+    sites:
+      output: true
+      layout: site
+      permalink: /:path

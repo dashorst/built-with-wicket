@@ -1,0 +1,24 @@
+.jumbotron {
+    background-image: url(img/construction.jpg);
+    background-color:#BF866F;
+    background-repeat: no-repeat;
+    background-position: center 50%;
+    background-size: cover;
+    box-shadow: none;
+    color:white;
+}
+
+.card-img-top {
+    max-height:15rem;
+    object-fit: cover;
+    object-position:top;
+}
+
+.badge-outline {
+    border: 1px solid black;
+}
+
+.btn-wicket {
+    background-color: #FF9925;
+    color: #FFFFFF;
+}

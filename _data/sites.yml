@@ -1,0 +1,15 @@
+- id: 1
+  title: Topiconf
+  url: https://app.topiconf.nl
+  description: >
+    Conference planning application for [Topiconf](https://topiconf.nl), the internal 
+    conference for [Topicus](https://topicus.nl). This application uses Wicket 1.5, 
+    Bootstrap 2, MongoDB and Markdown.
+
+- id: 2
+  title: Er op uit!
+  url: https://eropuit.nl
+  description: >
+    [Eropuit.nl](https://eropuit.nl) is a website for discovering and planning interesting day trips 
+    in the Netherlands. The site is maintained by the Dutch railways company [NS](https://ns.nl).
+
